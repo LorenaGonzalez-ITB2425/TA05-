@@ -2,7 +2,7 @@
 
 Help Scout és una eina completa dissenyada per agilitzar les operacions de suport tècnic al client, millorar la col·laboració de l'equip i oferir experiències excepcionals als clients.
 
-## Les aplicacions de la IA.
+## Les aplicacions de la IA
 
 Help Scout compta amb una multitud de característiques dissenyades per millorar les operacions de suport al client:
 
@@ -19,3 +19,8 @@ Help Scout compta amb una multitud de característiques dissenyades per millorar
 -Chat en Vivo: Interactúa con los visitantes del sitio web en tiempo real, disponible a través del widget de contacto Beacon. 
 
 -Integraciones: Integra sin problemas otras herramientas que tu equipo utiliza a diario, incluidos sistemas CRM, herramientas de gestión de proyectos y más.
+
+
+## L'impact de la IA
+
+La IA té un impacte significatiu en l'automatització de les tasques de rutina, ja que és capaç de categoritzar i prioritzar les sol·licituds d'assistència, dirigir-les als equips adequats i suggerir solucions basades en altres anteriors, reduint la càrrega del personal de l'àrea i millorant els temps de resposta.
