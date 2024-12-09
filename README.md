@@ -1,6 +1,6 @@
 # IBM Watson 
 ---
-![ERROR](/ruta/a/la/imagen.jpg "LOGO")
+![ERROR](/TA05-/imagen.jpg "LOGO")
 
 ## Definicion 
 **IBM Watson** es un procesador de análisis de datos que utiliza procesamiento de lenguaje natural, una tecnología que analiza el habla humana en busca de significado y sintaxis. IBM Watson realiza análisis de vastos depósitos de datos que procesa para responder preguntas formuladas por humanos, a menudo en una fracción de segundo.
