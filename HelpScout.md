@@ -2,6 +2,8 @@ HELPSCOUT
 
 Help Scout es una herramienta completa diseñada para agilizar las operaciones de soporte tecnico al cliente, mejorar la colaboración del equipo y ofrecer experiencias excepcionales a los clientes.
 
+**Les aplicacions de la IA.**
+
 **Help Scout cuenta con una multitud de características diseñadas para mejorar las operaciones de soporte al cliente:**
 
 -Bandeja de Entrada Compartida: Gestiona todos los correos electrónicos de los clientes como un equipo. Asigna conversaciones, colabora internamente usando notas y nunca pierdas una consulta de cliente.
