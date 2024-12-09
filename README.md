@@ -24,5 +24,9 @@ IBM ha tenido un impacto significativo en el análisis de datos en el campo de l
 **IBM Watson for Cyber Security** utiliza IA para procesar y analizar datos no estructurados, como informes de seguridad, foros y artículos, ayudando a las organizaciones a detectar ataques cibernéticos más rápidamente. Además, su capacidad para aprender y mejorar con el tiempo hace que la detección de amenazas sea cada vez más precisa. **IBM QRadar**, una plataforma de gestión de eventos de seguridad (SIEM), ayuda a las empresas a centralizar la recopilación, análisis y correlación de datos de seguridad, lo que facilita la identificación de incidentes de seguridad y mejora la toma de decisiones en tiempo real.
 
 El impacto de IBM en el sector de la ciberseguridad ha sido profundo, ya que sus soluciones permiten una mayor protección de datos sensibles, cumplimiento normativo, y una gestión más eficiente de incidentes. Empresas en sectores altamente regulados, como la banca, la salud y las telecomunicaciones, se benefician enormemente de herramientas como **IBM Guardium**, que protege bases de datos y asegura la integridad y privacidad de los datos.
-## [Impacto Ambiental](https://www.ibm.com/es-es/impact/environment)
+## Impacto Ambiental
 ---
+### Positivo
+### NEGATIVO
+### [Objetivos](https://www.ibm.com/es-es/impact/environment)
+
