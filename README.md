@@ -88,7 +88,7 @@ Implementar programas de reciclaje electrónico para equipos obsoletos y fomenta
 ![image](https://github.com/user-attachments/assets/0ee78681-d5a6-4a85-a0d7-586cabc8b798)
 
 ## Definición:
-GitHub Copilot es una herramienta de asistencia en programación desarrollada por GitHub en colaboración con OpenAI. Está diseñada para ayudar a los desarrolladores a escribir código de manera más rápida y eficiente. Copilot funciona como un "copiloto" inteligente, proporcionando sugerencias de código en tiempo real mientras el programador escribe, todo basado en el contexto del código y los comentarios que se encuentran en el archivo.
+>GitHub Copilot es una herramienta de asistencia en programación desarrollada por GitHub en colaboración con OpenAI. Está diseñada para ayudar a los desarrolladores a escribir código de manera más rápida y eficiente. Copilot funciona como un "copiloto" inteligente, proporcionando sugerencias de código en tiempo real mientras el programador escribe, todo basado en el contexto del código y los comentarios que se encuentran en el archivo.
 
 ## Funciones:
 #### 1. Autocompletar código
@@ -113,7 +113,7 @@ Copilot puede sugerir ejemplos de código para frameworks y bibliotecas populare
 
 ### Impacto Positivo en el Sector Tecnológico
 #### Aceleración del Desarrollo:
-**Mayor velocidad de codificación:** Copilot sugiere fragmentos completos de código, lo que reduce el tiempo dedicado a escribir líneas repetitivas. Los desarrolladores pueden centrarse en tareas más complejas.
+**Mayor velocidad de codificación:** Copilot sugiere fragmentos completos de código, lo que reduce el tiempo dedicado a escribir líneas repetitivas. Los desarrolladores pueden centrarse en tareas más complejas. 
 **Prototipado rápido:** Ayuda a crear prototipos y soluciones rápidas, permitiendo iteraciones ágiles y mejoras continuas en proyectos.
 
 #### Fomento de la Innovación y Aprendizaje:
