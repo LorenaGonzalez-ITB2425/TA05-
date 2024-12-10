@@ -109,5 +109,21 @@ Aunque no es un depurador completo, Copilot puede ofrecer sugerencias que ayuden
 #### 6. Soporte en frameworks y librerías
 Copilot puede sugerir ejemplos de código para frameworks y bibliotecas populares, lo que es útil cuando estás trabajando con tecnologías que no conoces a fondo o en nuevos proyectos.
 
+## Impacto al sector tecnológico:
 
+### Impacto Positivo en el Sector Tecnológico
+#### Aceleración del Desarrollo:
+**Mayor velocidad de codificación:** Copilot sugiere fragmentos completos de código, lo que reduce el tiempo dedicado a escribir líneas repetitivas. Los desarrolladores pueden centrarse en tareas más complejas.
+**Prototipado rápido:** Ayuda a crear prototipos y soluciones rápidas, permitiendo iteraciones ágiles y mejoras continuas en proyectos.
+
+#### Fomento de la Innovación y Aprendizaje:
+**Generación de ideas:** Sugerencias innovadoras para resolver problemas complejos, lo que fomenta la creatividad de los desarrolladores.
+**Facilita el aprendizaje:** Para desarrolladores novatos, Copilot puede proporcionar ejemplos y prácticas recomendadas, acelerando su curva de aprendizaje.
+
+#### Mejora de la Calidad del Código:
+**Prevención de errores comunes:** Al estar entrenado con código de código abierto de alta calidad, Copilot sugiere soluciones que siguen mejores prácticas y pueden evitar errores frecuentes.
+**Optimización:** Ayuda a refactorizar y optimizar el código existente, mejorando la eficiencia y mantenimiento.
+
+#### Acceso a Conocimiento Global:
+**Mejores prácticas:** Ofrece acceso a un vasto conjunto de patrones de diseño y soluciones, lo que facilita trabajar con frameworks y librerías populares sin tener que buscar documentación constantemente.
 
