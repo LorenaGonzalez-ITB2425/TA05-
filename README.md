@@ -63,6 +63,26 @@ Aunque IBM utiliza prácticas sostenibles, el crecimiento masivo de la infraestr
 
 ## Propuestas mara minimizar el impacto ambiental
 ### [Objetivos](https://www.ibm.com/es-es/impact/environment)
+#### 1. Ampliar la Implementación de Proyectos de Ahorro Energético
+Acelerar la implementación de proyectos de ahorro energético en empresas y gobiernos, con el objetivo de superar los 3000 proyectos establecidos para evitar el consumo de 275,000 MWh de energía entre 2021 y 2025, extendiendo su alcance a nuevas industrias.
+
+#### 2. Transición Energética Global
+Impulsar asociaciones con gobiernos y empresas para lograr que al menos el 75% de la electricidad mundial provenga de fuentes renovables para 2025, y trabajar para alcanzar el 90% para 2030, promoviendo inversiones en infraestructura de energía limpia.
+
+#### 3. Cero Emisiones de GEI
+Continuar avanzando hacia el objetivo de cero emisiones operativas de gases de efecto invernadero (GEI) para 2030, con un enfoque en mejorar la eficiencia energética de las operaciones y facilitar la transición hacia tecnologías de baja emisión de carbono.
+
+#### 4. Conservación del Agua y Biodiversidad
+Ampliar las iniciativas de conservación del agua en centros de trabajo y operaciones, reduciendo las extracciones de agua en zonas con escasez y promoviendo el reciclaje y reutilización de agua dentro de las instalaciones de IBM y ampliar la plantación de jardines para polinizadores en las sedes de IBM.
+
+#### 5.Economía Circular y Gestión de Residuos
+Desviar el 90% de los residuos no peligrosos de vertederos y promover la reutilización, reciclaje y compostaje, eliminando plásticos no esenciales.
+
+#### 6. Innovación en AI para la Sostenibilidad
+Desarrollar y aplicar inteligencia artificial para optimizar la gestión de recursos, reducir la huella de carbono y mejorar la eficiencia en las operaciones.
+
+
+
 
 
 
