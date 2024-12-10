@@ -115,36 +115,36 @@ Copilot puede sugerir ejemplos de código para frameworks y bibliotecas populare
 
 ### Impacto Positivo:
 #### Aceleración del Desarrollo:
-**Mayor velocidad de codificación:** Copilot sugiere fragmentos completos de código, lo que reduce el tiempo dedicado a escribir líneas repetitivas. Los desarrolladores pueden centrarse en tareas más complejas. 
-**Prototipado rápido:** Ayuda a crear prototipos y soluciones rápidas, permitiendo iteraciones ágiles y mejoras continuas en proyectos.
+✧ **Mayor velocidad de codificación:** Copilot sugiere fragmentos completos de código, lo que reduce el tiempo dedicado a escribir líneas repetitivas. Los desarrolladores pueden centrarse en tareas más complejas. 
+✧ **Prototipado rápido:** Ayuda a crear prototipos y soluciones rápidas, permitiendo iteraciones ágiles y mejoras continuas en proyectos.
 
 #### Fomento de la Innovación y Aprendizaje:
-**Generación de ideas:** Sugerencias innovadoras para resolver problemas complejos, lo que fomenta la creatividad de los desarrolladores. 
-**Facilita el aprendizaje:** Para desarrolladores novatos, Copilot puede proporcionar ejemplos y prácticas recomendadas, acelerando su curva de aprendizaje.
+✧ **Generación de ideas:** Sugerencias innovadoras para resolver problemas complejos, lo que fomenta la creatividad de los desarrolladores. 
+✧ **Facilita el aprendizaje:** Para desarrolladores novatos, Copilot puede proporcionar ejemplos y prácticas recomendadas, acelerando su curva de aprendizaje.
 
 #### Mejora de la Calidad del Código:
-**Prevención de errores comunes:** Al estar entrenado con código de código abierto de alta calidad, Copilot sugiere soluciones que siguen mejores prácticas y pueden evitar errores frecuentes.
-**Optimización:** Ayuda a refactorizar y optimizar el código existente, mejorando la eficiencia y mantenimiento.
+✧ **Prevención de errores comunes:** Al estar entrenado con código de código abierto de alta calidad, Copilot sugiere soluciones que siguen mejores prácticas y pueden evitar errores frecuentes.
+✧ **Optimización:** Ayuda a refactorizar y optimizar el código existente, mejorando la eficiencia y mantenimiento.
 
 #### Acceso a Conocimiento Global:
-**Mejores prácticas:** Ofrece acceso a un vasto conjunto de patrones de diseño y soluciones, lo que facilita trabajar con frameworks y librerías populares sin tener que buscar documentación constantemente.
+✧ **Mejores prácticas:** Ofrece acceso a un vasto conjunto de patrones de diseño y soluciones, lo que facilita trabajar con frameworks y librerías populares sin tener que buscar documentación constantemente.
 
 
 
 ### Impacto Negativo:
 #### Dependencia de la Herramienta:
-**Desarrollo de habilidades:** Si se depende demasiado de Copilot, los programadores pueden perder la práctica y comprensión de los fundamentos de la programación, como el diseño de algoritmos o estructuras de datos.
-**Limitación de creatividad:** Al usar las sugerencias automáticas, algunos desarrolladores pueden caer en patrones repetitivos en lugar de explorar soluciones únicas.
+✧ **Desarrollo de habilidades:** Si se depende demasiado de Copilot, los programadores pueden perder la práctica y comprensión de los fundamentos de la programación, como el diseño de algoritmos o estructuras de datos.
+✧ **Limitación de creatividad:** Al usar las sugerencias automáticas, algunos desarrolladores pueden caer en patrones repetitivos en lugar de explorar soluciones únicas.
 
 #### Preocupaciones de Propiedad Intelectual:
-**Derechos de autor:** Copilot genera código basado en proyectos de código abierto, lo que plantea dudas sobre la propiedad intelectual, ya que algunas sugerencias pueden estar basadas en código con licencias restrictivas.
-**Riesgos legales:** Las empresas que usan Copilot deben ser conscientes de los posibles conflictos legales si el código generado infringe derechos de autor.
+✧ **Derechos de autor:** Copilot genera código basado en proyectos de código abierto, lo que plantea dudas sobre la propiedad intelectual, ya que algunas sugerencias pueden estar basadas en código con licencias restrictivas.
+✧ **Riesgos legales:** Las empresas que usan Copilot deben ser conscientes de los posibles conflictos legales si el código generado infringe derechos de autor.
 
 #### Impacto en el Mercado Laboral:
-**Desplazamiento de tareas rutinarias:** Algunas tareas repetitivas podrían ser automatizadas, cambiando el rol de los desarrolladores hacia tareas más estratégicas y de alto nivel, pero también reduciendo la demanda de trabajo en áreas menos especializadas.
-**Cambio en las expectativas laborales:** Se espera que los desarrolladores sean más eficientes y se enfoquen en problemas más complejos, lo que podría generar una revalorización de habilidades más avanzadas.
+✧ **Desplazamiento de tareas rutinarias:** Algunas tareas repetitivas podrían ser automatizadas, cambiando el rol de los desarrolladores hacia tareas más estratégicas y de alto nivel, pero también reduciendo la demanda de trabajo en áreas menos especializadas.
+✧ **Cambio en las expectativas laborales:** Se espera que los desarrolladores sean más eficientes y se enfoquen en problemas más complejos, lo que podría generar una revalorización de habilidades más avanzadas.
 
 #### Calidad del Código:
-**Errores y vulnerabilidades:** Las sugerencias de Copilot no siempre son perfectas y pueden contener errores o malas prácticas. Los desarrolladores deben revisar y validar el código antes de implementarlo.
-**Falta de contexto:** Copilot no siempre entiende el contexto específico de un proyecto, lo que puede llevar a soluciones inadecuadas para ciertos casos.
+✧ **Errores y vulnerabilidades:** Las sugerencias de Copilot no siempre son perfectas y pueden contener errores o malas prácticas. Los desarrolladores deben revisar y validar el código antes de implementarlo.
+✧ **Falta de contexto:** Copilot no siempre entiende el contexto específico de un proyecto, lo que puede llevar a soluciones inadecuadas para ciertos casos.
 
