@@ -5,6 +5,7 @@
 ## Definición
 Es una plataforma de inteligencia artificial desarrollada por Juniper Networks, diseñada para optimizar y gestionar redes inalámbricas, de área local (LAN) y otras infraestructuras de red empresarial. Combina capacidades avanzadas de aprendizaje automático e inteligencia artificial con herramientas de administración en la nube para proporcionar análisis en tiempo real, automatización de procesos y una mejor experiencia de usuario.
 
+
 ## Características:
 **1. Optimización de redes Wi-Fi:**
 Utiliza inteligencia artificial para garantizar una cobertura Wi-Fi eficiente, reducir las interferencias y optimizar la experiencia del usuario final.
@@ -23,6 +24,8 @@ Se conecta con sistemas de IT y plataformas de automatización para ofrecer una 
 
 **6. Localización y geolocalización:**
 Incluye herramientas avanzadas de ubicación para optimizar servicios en interiores, como la navegación y el seguimiento de activos.
+
+
 
 ## Impacto en el sector tecnológico:
 **1. Automatización y eficiencia operativa:**
@@ -45,6 +48,8 @@ Con su tecnología de geolocalización avanzada, MIST AI permite el desarrollo d
 
 **7. Competitividad en el mercado:**
 Empresas que adoptan MIST AI ganan una ventaja competitiva al ofrecer redes más confiables y servicios innovadores. Esto también presiona a otros jugadores en el mercado a evolucionar para no quedarse atrás.
+
+
 
 # Impacto ambiental:
 
@@ -148,3 +153,17 @@ Copilot puede sugerir ejemplos de código para frameworks y bibliotecas populare
 ✧ **Errores y vulnerabilidades:** Las sugerencias de Copilot no siempre son perfectas y pueden contener errores o malas prácticas. Los desarrolladores deben revisar y validar el código antes de implementarlo.
 ✧ **Falta de contexto:** Copilot no siempre entiende el contexto específico de un proyecto, lo que puede llevar a soluciones inadecuadas para ciertos casos.
 
+
+## Impacto ambiental:
+### Impacto Ambiental Positivo:
+#### Reducción del uso de recursos en la codificación:
+**Optimización del código:** Copilot puede ayudar a generar soluciones más eficientes y optimizadas, lo que, en algunos casos, puede reducir el consumo de recursos en el desarrollo de software, como el tiempo de procesamiento y el uso de energía para ejecutar aplicaciones. El código optimizado es más eficiente y puede requerir menos energía durante su ejecución.
+
+#### Ahorro de tiempo y recursos:
+**Reducción de errores y depuración:** Al sugerir código preciso y reducir los errores comunes, Copilot puede disminuir la necesidad de correcciones y reescrituras, lo que a su vez reduce el tiempo y los recursos computacionales utilizados en el ciclo de desarrollo.
+
+### Impacto Ambiental Negativo:
+#### Consumo de energía en centros de datos:
+**Procesamiento en la nube:** GitHub Copilot se basa en modelos de inteligencia artificial que requieren centros de datos de alto rendimiento para procesar las solicitudes. Estos centros de datos, especialmente si no están alimentados por fuentes de energía renovables, pueden consumir grandes cantidades de electricidad y contribuir a las emisiones de carbono.
+
+**Aumento en la demanda de computación:** El entrenamiento y la operación de modelos de IA como Copilot exigen recursos computacionales significativos. La creciente demanda de servicios basados en IA podría resultar en un mayor uso de energía, lo que afectaría la huella de carbono del sector tecnológico.
