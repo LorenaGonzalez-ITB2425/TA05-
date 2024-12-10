@@ -89,3 +89,10 @@ Fomentar el uso de hardware más estándar y reutilizable, evitando la dependenc
 #### 2. Reciclaje y gestión responsable de equipos obsoletos
 Implementar programas de reciclaje electrónico para equipos obsoletos y fomentar la reutilización o donación de dispositivos en buen estado, evitando su desecho prematuro y reduciendo los residuos electrónicos.
 
+# Copilot de Github
+![image](https://github.com/user-attachments/assets/0ee78681-d5a6-4a85-a0d7-586cabc8b798)
+
+
+
+
+
