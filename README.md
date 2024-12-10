@@ -23,4 +23,7 @@ Help Scout compta amb una multitud de característiques dissenyades per millorar
 
 ## L'impact de la IA
 
-La IA té un impacte significatiu en l'automatització de les tasques de rutina, ja que és capaç de categoritzar i prioritzar les sol·licituds d'assistència, dirigir-les als equips adequats i suggerir solucions basades en altres anteriors, reduint la càrrega del personal de l'àrea i millorant els temps de resposta.
+La IA de Help Scout ha tingut un impacte significatiu en el mercat, especialment en el sector de servei al client. A través de l'ús de la IA, Help Scout ha pogut millorar la productivitat dels agents de servei al client, reduir els temps de resposta i ofereir solucions més personalitzades als usuaris. Això ha portat a una major satisfacció del client i ha ajudat les empreses a optimitzar els seus processos de suport.
+
+En general, l'implementació de la IA a Help Scout ha contribuït a rendibilitzar els serveis de suport i a crear un entorn de treball més eficient.
+
