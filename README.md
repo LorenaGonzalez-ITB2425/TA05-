@@ -26,7 +26,41 @@ IBM ha tenido un impacto significativo en el análisis de datos en el campo de l
 El impacto de IBM en el sector de la ciberseguridad ha sido profundo, ya que sus soluciones permiten una mayor protección de datos sensibles, cumplimiento normativo, y una gestión más eficiente de incidentes. Empresas en sectores altamente regulados, como la banca, la salud y las telecomunicaciones, se benefician enormemente de herramientas como **IBM Guardium**, que protege bases de datos y asegura la integridad y privacidad de los datos.
 ## Impacto Ambiental
 ---
-### Positivo
-### Negativo
+El compromiso de IBM con la sostenibilidad y la protección del medio ambiente ha sido constante desde la década de 1970, con esfuerzos enfocados en la gestión eficiente de los recursos naturales y la reducción de la huella ambiental. Este compromiso abarca desde el ahorro energético hasta la biodiversidad, e involucra tanto sus operaciones internas como la creación de soluciones para que sus clientes también alcancen sus metas ambientale
 ### [Objetivos](https://www.ibm.com/es-es/impact/environment)
+### Positivo
+---
+#### 1. Reducción de las emisiones de gases de efecto invernadero (GEI)
+IBM tiene el objetivo de reducir sus emisiones operativas de GEI en un 65% para 2025 respecto a 2010, alcanzando cero emisiones operativas para 2030, lo cual contribuirá significativamente a la lucha contra el cambio climático.
+
+#### 2. Fomento del uso de energía renovable
+La empresa busca que el 75% de su consumo eléctrico provenga de fuentes renovables para 2025 y el 90% para 2030. Esta transición ayudará a reducir la dependencia de fuentes de energía no renovables y disminuir la huella de carbono.
+
+#### 3. Conservación de recursos hídricos
+IBM trabaja en la reducción del consumo de agua en regiones con escasez hídrica mediante prácticas de conservación eficientes en sus centros de datos, lo que ayuda a preservar este recurso vital en áreas críticas.
+
+#### 4. Biodiversidad y preservación de ecosistemas
+Con el objetivo de promover la biodiversidad, IBM plantará 50 jardines para polinizadores en sus sedes globales, contribuyendo a la conservación de especies vitales para los ecosistemas.
+
+#### 5. Gestión de residuos y reducción de plásticos
+La compañía se ha comprometido a desviar el 90% de sus residuos no peligrosos de los vertederos mediante la reutilización, el reciclaje y el compostaje, y eliminar el plástico de un solo uso en sus operaciones de cafetería globales, lo que contribuirá a la reducción de la contaminación plástica.
+### Negativo
+---
+#### 1. Consumo energético de la infraestructura de TI
+Aunque IBM promueve la eficiencia energética, las operaciones y centros de datos que utilizan IA y tecnología avanzada requieren grandes cantidades de energía, lo que puede aumentar la huella de carbono si no se utiliza suficiente energía renovable.
+
+#### 2. Residuos electrónicos
+La rápida evolución de la tecnología de la IA genera un ciclo de vida corto para los dispositivos electrónicos, lo que lleva a la acumulación de residuos electrónicos. Aunque IBM implementa procesos de reciclaje, esta es una preocupación persistente.
+
+#### 3. Uso intensivo de recursos naturales en la producción de hardware
+La fabricación de equipos y componentes necesarios para la IA, como chips y servidores, depende de la extracción de recursos naturales, lo que puede generar impactos negativos en los ecosistemas y comunidades locales.
+
+#### 4. Desigualdad en el acceso a la tecnología
+El despliegue de tecnologías avanzadas, como la IA, puede generar una mayor brecha digital y desigualdad en el acceso a recursos, afectando a regiones o países con menos infraestructura o recursos para implementar estas tecnologías de manera sostenible.
+
+#### 5. Impacto ambiental de la infraestructura de la nube
+Aunque IBM utiliza prácticas sostenibles, el crecimiento masivo de la infraestructura de la nube para soportar aplicaciones basadas en IA puede llevar a la sobrecarga de recursos naturales y a un mayor consumo de energía, especialmente si no se adoptan medidas de eficiencia energética en todas las fases.
+
+
+
 
