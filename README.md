@@ -80,6 +80,8 @@ Aunque reduce la cantidad de equipos necesarios, las soluciones de MIST AI aún 
 #### Obsolescencia tecnológica:
 La integración de nuevas tecnologías puede hacer que los equipos antiguos queden obsoletos, aumentando la generación de desechos electrónicos si no se gestionan adecuadamente.
 
+
+
 ## Propuestas para minimizar el impacto ambiental negativo:
 #### 1. Reducción del uso de hardware especializado
 Fomentar el uso de hardware más estándar y reutilizable, evitando la dependencia de dispositivos específicos que requieren fabricación y transporte adicionales, lo que reduce las emisiones asociadas.
@@ -157,13 +159,24 @@ Copilot puede sugerir ejemplos de código para frameworks y bibliotecas populare
 ## Impacto ambiental:
 ### Impacto Ambiental Positivo:
 #### Reducción del uso de recursos en la codificación:
-**Optimización del código:** Copilot puede ayudar a generar soluciones más eficientes y optimizadas, lo que, en algunos casos, puede reducir el consumo de recursos en el desarrollo de software, como el tiempo de procesamiento y el uso de energía para ejecutar aplicaciones. El código optimizado es más eficiente y puede requerir menos energía durante su ejecución.
+✩ **Optimización del código:** Copilot puede ayudar a generar soluciones más eficientes y optimizadas, lo que, en algunos casos, puede reducir el consumo de recursos en el desarrollo de software, como el tiempo de procesamiento y el uso de energía para ejecutar aplicaciones. El código optimizado es más eficiente y puede requerir menos energía durante su ejecución.
 
 #### Ahorro de tiempo y recursos:
-**Reducción de errores y depuración:** Al sugerir código preciso y reducir los errores comunes, Copilot puede disminuir la necesidad de correcciones y reescrituras, lo que a su vez reduce el tiempo y los recursos computacionales utilizados en el ciclo de desarrollo.
+✩ **Reducción de errores y depuración:** Al sugerir código preciso y reducir los errores comunes, Copilot puede disminuir la necesidad de correcciones y reescrituras, lo que a su vez reduce el tiempo y los recursos computacionales utilizados en el ciclo de desarrollo.
 
 ### Impacto Ambiental Negativo:
 #### Consumo de energía en centros de datos:
-**Procesamiento en la nube:** GitHub Copilot se basa en modelos de inteligencia artificial que requieren centros de datos de alto rendimiento para procesar las solicitudes. Estos centros de datos, especialmente si no están alimentados por fuentes de energía renovables, pueden consumir grandes cantidades de electricidad y contribuir a las emisiones de carbono.
+✩ **Procesamiento en la nube:** GitHub Copilot se basa en modelos de inteligencia artificial que requieren centros de datos de alto rendimiento para procesar las solicitudes. Estos centros de datos, especialmente si no están alimentados por fuentes de energía renovables, pueden consumir grandes cantidades de electricidad y contribuir a las emisiones de carbono.
 
-**Aumento en la demanda de computación:** El entrenamiento y la operación de modelos de IA como Copilot exigen recursos computacionales significativos. La creciente demanda de servicios basados en IA podría resultar en un mayor uso de energía, lo que afectaría la huella de carbono del sector tecnológico.
+✩ **Aumento en la demanda de computación:** El entrenamiento y la operación de modelos de IA como Copilot exigen recursos computacionales significativos. La creciente demanda de servicios basados en IA podría resultar en un mayor uso de energía, lo que afectaría la huella de carbono del sector tecnológico.
+
+#### Explotación de recursos para entrenar IA:
+✩ **Impacto ambiental del entrenamiento de modelos de IA:** El proceso de entrenamiento de modelos de inteligencia artificial como Copilot requiere una gran cantidad de procesamiento computacional y almacenamiento de datos, lo que puede tener un alto costo energético. Dependiendo de la infraestructura de nube utilizada, esto puede contribuir a emisiones indirectas de carbono.
+
+## Propuestas para minimizar el impacto ambiental negativo:
+
+#### ♡ Uso de energías renovables en centros de datos:
+Las empresas que operan GitHub Copilot pueden mitigar su impacto ambiental al asegurarse de que sus centros de datos estén alimentados por fuentes de energía renovable (solar, eólica, etc.), reduciendo así la huella de carbono asociada con el procesamiento de IA.
+
+#### ♡ Mejora de la eficiencia del modelo de IA:
+Invertir en la optimización de algoritmos y el entrenamiento eficiente de modelos para reducir el consumo de energía de los centros de datos. El uso de modelos más ligeros y técnicas de optimización podría disminuir la cantidad de recursos necesarios para el funcionamiento de Copilot.
