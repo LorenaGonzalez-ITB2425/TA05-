@@ -73,3 +73,10 @@ Aunque reduce la cantidad de equipos necesarios, las soluciones de MIST AI aún 
 
 #### Obsolescencia tecnológica:
 La integración de nuevas tecnologías puede hacer que los equipos antiguos queden obsoletos, aumentando la generación de desechos electrónicos si no se gestionan adecuadamente.
+
+## Propuestas para minimizar el impacto ambiental negativo:
+#### 1. Reducción del uso de hardware especializado
+Fomentar el uso de hardware más estándar y reutilizable, evitando la dependencia de dispositivos específicos que requieren fabricación y transporte adicionales, lo que reduce las emisiones asociadas.
+
+#### 2. Reciclaje y gestión responsable de equipos obsoletos
+Implementar programas de reciclaje electrónico para equipos obsoletos y fomentar la reutilización o donación de dispositivos en buen estado, evitando su desecho prematuro y reduciendo los residuos electrónicos.
