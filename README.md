@@ -27,6 +27,6 @@ El impacto de IBM en el sector de la ciberseguridad ha sido profundo, ya que sus
 ## Impacto Ambiental
 ---
 ### Positivo
-### NEGATIVO
+### Negativo
 ### [Objetivos](https://www.ibm.com/es-es/impact/environment)
 
