@@ -26,3 +26,8 @@ La IA de Help Scout ha tenido un impacto significativo en el mercado, especialme
 
 Por lo general, la implementación de la IA en Help Scout ha contribuido a rentabilizar los servicios de apoyo ya crear un entorno de trabajo más eficiente.
 
+## El impacto ambiental de la IA
+
+El impacto ambiental del IA, incluyendo la tecnología utilizada por Help Scout, es un área de preocupación creciente. El uso de la IA requiere una gran cantidad de energía para su funcionamiento, lo que puede contribuir a la emisión de gases de efecto invernadero. Además, la infraestructura necesaria para la IA, como los centros de datos, consume mucha agua y produce desbroces electrónicos.
+
+Sin embargo, también hay esfuerzos para hacer que la IA sea más sostenible, como el uso de tecnologías renovables y mejorar la eficiencia energética de los centros de datos. Es importante seguir investigando e implementando prácticas sostenibles para minimizar estos impactos.
