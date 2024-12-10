@@ -27,23 +27,23 @@ El impacto de IBM en el sector de la ciberseguridad ha sido profundo, ya que sus
 ## Impacto Ambiental
 ---
 El compromiso de IBM con la sostenibilidad y la protección del medio ambiente ha sido constante desde la década de 1970, con esfuerzos enfocados en la gestión eficiente de los recursos naturales y la reducción de la huella ambiental. Este compromiso abarca desde el ahorro energético hasta la biodiversidad, e involucra tanto sus operaciones internas como la creación de soluciones para que sus clientes también alcancen sus metas ambientale
-### [Objetivos](https://www.ibm.com/es-es/impact/environment)
-### Positivo
+### Positivos
 ---
-#### 1. Reducción de las emisiones de gases de efecto invernadero (GEI)
-IBM tiene el objetivo de reducir sus emisiones operativas de GEI en un 65% para 2025 respecto a 2010, alcanzando cero emisiones operativas para 2030, lo cual contribuirá significativamente a la lucha contra el cambio climático.
+#### 1. Energia y cambio climático:
+IBM ha logrado reducir significativamente su impacto ambiental mediante la disminución de sus emisiones de gases de efecto invernadero y el uso creciente de energía renovable. En 2023, la empresa redujo su consumo de energía en un 6.6% y utilizó más del 70% de electricidad renovable, lo que contribuyó a una notable disminución de sus emisiones. También implementó proyectos de eficiencia energética que evitaron miles de toneladas de CO₂.
 
-#### 2. Fomento del uso de energía renovable
-La empresa busca que el 75% de su consumo eléctrico provenga de fuentes renovables para 2025 y el 90% para 2030. Esta transición ayudará a reducir la dependencia de fuentes de energía no renovables y disminuir la huella de carbono.
+#### 2. Prevención de la contaminación y gestión de residuos
+IBM ha adoptado una filosofía de prevención de la contaminación desde 1971, enfocándose en reducir la generación de desechos en su origen. En 2023, la empresa logró desviar el 94.2% de sus residuos no peligrosos de los vertederos, superando su meta de reciclaje y reutilización. Además, IBM eliminó el uso de plásticos de un solo uso no esenciales en 58 de sus 60 comedores gestionados globalmente, avanzando hacia la meta de 2025. También gestionó sus emisiones de aire y desechos peligrosos, mostrando un compromiso continuo con la sostenibilidad y la reducción de su impacto ambiental.
 
-#### 3. Conservación de recursos hídricos
-IBM trabaja en la reducción del consumo de agua en regiones con escasez hídrica mediante prácticas de conservación eficientes en sus centros de datos, lo que ayuda a preservar este recurso vital en áreas críticas.
+#### 3. Cadena de suministro
+IBM se compromete a trabajar con proveedores responsables en términos ambientales, exigiendo que implementen sistemas de gestión que aborden su impacto en el medio ambiente y la sociedad. Desde 2010, la compañía requiere que sus proveedores definan y mantengan metas ambientales en áreas como residuos, energía y emisiones de gases de efecto invernadero. En 2021, IBM estableció metas para reducir las emisiones de gases de efecto invernadero en su cadena de suministro, impulsando a los proveedores a establecer objetivos alineados con las recomendaciones científicas para limitar el calentamiento global. Además, realiza evaluaciones periódicas para asegurar que sus proveedores mantengan prácticas ambientales adecuadas.
 
-#### 4. Biodiversidad y preservación de ecosistemas
-Con el objetivo de promover la biodiversidad, IBM plantará 50 jardines para polinizadores en sus sedes globales, contribuyendo a la conservación de especies vitales para los ecosistemas.
+#### 4. Soluciones de Sostenibilidad
+IBM está ayudando a las empresas a alcanzar sus objetivos de sostenibilidad utilizando datos e inteligencia artificial (IA) para medir, monitorear y gestionar su impacto ambiental. A través de soluciones como IBM Envizi y IBM Consulting, las organizaciones pueden crear estrategias más efectivas para reducir su huella de carbono, cumplir con normativas y presentar informes transparentes sobre su desempeño medioambiental, social y de gobernanza (ESG). Al integrar IA en la toma de decisiones, las empresas no solo buscan la sostenibilidad, sino también asegurar su estabilidad financiera a largo plazo. 
 
-#### 5. Gestión de residuos y reducción de plásticos
-La compañía se ha comprometido a desviar el 90% de sus residuos no peligrosos de los vertederos mediante la reutilización, el reciclaje y el compostaje, y eliminar el plástico de un solo uso en sus operaciones de cafetería globales, lo que contribuirá a la reducción de la contaminación plástica.
+#### 5. Acelerador de Sostenibilidad 
+El *IBM Sustainability Accelerator* es una iniciativa global que ofrece tecnología e inteligencia artificial a organizaciones sin fines de lucro y gobiernos para ayudar a comunidades vulnerables a enfrentar el cambio climático. El programa, que no tiene costo para los participantes, se centra en cuatro áreas: agricultura sostenible, energía limpia, gestión del agua y ciudades resilientes. IBM trabaja con socios como *Heifer International* y la *UNDP* para implementar soluciones tecnológicas que mejoren el acceso a recursos y mitiguen los impactos del cambio climático en comunidades de todo el mundo.
+
 ### Negativo
 ---
 #### 1. Consumo energético de la infraestructura de TI
@@ -60,6 +60,10 @@ El despliegue de tecnologías avanzadas, como la IA, puede generar una mayor bre
 
 #### 5. Impacto ambiental de la infraestructura de la nube
 Aunque IBM utiliza prácticas sostenibles, el crecimiento masivo de la infraestructura de la nube para soportar aplicaciones basadas en IA puede llevar a la sobrecarga de recursos naturales y a un mayor consumo de energía, especialmente si no se adoptan medidas de eficiencia energética en todas las fases.
+
+## Propuestas mara minimizar el impacto ambiental
+### [Objetivos](https://www.ibm.com/es-es/impact/environment)
+
 
 
 
