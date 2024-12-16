@@ -2,7 +2,8 @@
 
 ## Aplicaciones de la IA en Cylance AI
 ![image](https://www.sourcesecurity.com/img/news/612/blackberry-cylance-920x533.jpg)
-
+- **Descripcion**
+  - Cylance AI es una avanzada solución de seguridad cibernética desarrollada por BlackBerry que emplea inteligencia artificial y aprendizaje automático para proteger sistemas y redes contra amenazas informáticas.
 ### Gestión de la Seguridad
 - **Aplicaciones de la IA**:
   - Análisis de datos de seguridad para identificar vulnerabilidades.
