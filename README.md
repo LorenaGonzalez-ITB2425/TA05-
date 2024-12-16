@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/8b84ba3c-93a0-4304-8d20-5b5c2a516494)
 
 ## Definición
-Es una plataforma de inteligencia artificial desarrollada por Juniper Networks, diseñada para optimizar y gestionar redes inalámbricas, de área local (LAN) y otras infraestructuras de red empresarial. Combina capacidades avanzadas de aprendizaje automático e inteligencia artificial con herramientas de administración en la nube para proporcionar análisis en tiempo real, automatización de procesos y una mejor experiencia de usuario.
+>🌀Es una plataforma de inteligencia artificial desarrollada por Juniper Networks, diseñada para optimizar y gestionar redes inalámbricas, de área local (LAN) y otras infraestructuras de red empresarial. Combina capacidades avanzadas de aprendizaje automático e inteligencia artificial con herramientas de administración en la nube para proporcionar análisis en tiempo real, automatización de procesos y una mejor experiencia de usuario.🌀
 
 
 ## Características:
@@ -51,11 +51,11 @@ Empresas que adoptan MIST AI ganan una ventaja competitiva al ofrecer redes más
 
 
 
-# Impacto ambiental:
+## Impacto ambiental:
 
 El uso de tecnologías como MIST AI también tiene un impacto ambiental, tanto positivo como negativo, dependiendo de cómo se implementen y gestionen.
 
-## Impacto Ambiental Positivo
+### Impacto Ambiental Positivo
 #### Reducción del consumo energético:
 
 MIST AI optimiza el uso de redes inalámbricas y cableadas, ajustando automáticamente los recursos para minimizar el consumo de energía sin sacrificar el rendimiento.
@@ -95,25 +95,25 @@ Implementar programas de reciclaje electrónico para equipos obsoletos y fomenta
 ![image](https://github.com/user-attachments/assets/0ee78681-d5a6-4a85-a0d7-586cabc8b798)
 
 ## Definición:
->GitHub Copilot es una herramienta de asistencia en programación desarrollada por GitHub en colaboración con OpenAI. Está diseñada para ayudar a los desarrolladores a escribir código de manera más rápida y eficiente. Copilot funciona como un "copiloto" inteligente, proporcionando sugerencias de código en tiempo real mientras el programador escribe, todo basado en el contexto del código y los comentarios que se encuentran en el archivo.
+>👾GitHub Copilot es una herramienta de asistencia en programación desarrollada por GitHub en colaboración con OpenAI. Está diseñada para ayudar a los desarrolladores a escribir código de manera más rápida y eficiente. Copilot funciona como un "copiloto" inteligente, proporcionando sugerencias de código en tiempo real mientras el programador escribe, todo basado en el contexto del código y los comentarios que se encuentran en el archivo.👾
 
 ## Funciones:
-#### 1. Autocompletar código
+#### 1. ✧Autocompletar código
 GitHub Copilot puede predecir líneas completas de código o incluso funciones enteras basándose en lo que ya has escrito. Esto es útil para acelerar el proceso de codificación, sobre todo cuando se trabaja con lenguajes y patrones comunes.
 
-#### 2. Sugerencias contextuales
+#### 2. ✧Sugerencias contextuales
 La herramienta es capaz de entender el contexto del código y proporcionar sugerencias adaptadas a lo que estás haciendo. Por ejemplo, puede sugerir funciones o clases completas para resolver un problema específico.
 
-#### 3. Generación de funciones y métodos
+#### 3. ✧Generación de funciones y métodos
 A partir de comentarios descriptivos, Copilot puede generar bloques completos de código, como funciones, algoritmos o estructuras complejas, lo que ahorra tiempo y esfuerzo en tareas repetitivas.
 
-#### 4. Compatibilidad con múltiples lenguajes
+#### 4. ✧Compatibilidad con múltiples lenguajes
 GitHub Copilot es compatible con muchos lenguajes de programación, como Python, JavaScript, TypeScript, Ruby, Go, Java, C++, entre otros, lo que lo convierte en una herramienta versátil para desarrolladores de distintos entornos.
 
-#### 5. Apoyo a tareas de depuración
+#### 5. ✧Apoyo a tareas de depuración
 Aunque no es un depurador completo, Copilot puede ofrecer sugerencias que ayuden a identificar y corregir errores comunes, además de optimizar partes del código.
 
-#### 6. Soporte en frameworks y librerías
+#### 6. ✧Soporte en frameworks y librerías
 Copilot puede sugerir ejemplos de código para frameworks y bibliotecas populares, lo que es útil cuando estás trabajando con tecnologías que no conoces a fondo o en nuevos proyectos.
 
 
