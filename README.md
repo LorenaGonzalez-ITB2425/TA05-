@@ -9,6 +9,8 @@ Cylance AI es una herramienta centrada en la ciberseguridad creada por BlackBerr
 - **Aplicaciones de la IA**:
   - Análisis de datos de seguridad para identificar vulnerabilidades.
   - Modelos predictivos para anticipar y prevenir ataques.
+[Acceso a la IA](https://www.blackberry.com/la/es/products/cylance-endpoint-security/cylance-ai)
+
 
 ## Impacto al Sector
 
