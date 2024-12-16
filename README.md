@@ -24,22 +24,5 @@
 
 ## Propuestas para Minimizar los Impactos Ambientales
 
-### Diseño de Sistemas Más Eficientes
-- **Propuestas**:
-  - Implementar arquitecturas de IA más eficientes energéticamente.
-  - Utilizar tecnologías de computación en la nube sostenibles.
-
-### Uso de Tecnologías Sostenibles
-- **Propuestas**:
-  - Adoptar prácticas de desarrollo sostenible.
-  - Integrar la IoT para monitorizar y reducir el consumo de energía.
-
-### Gestión de la Infraestructura
-- **Propuestas**:
-  - Implementar sistemas de gestión de energía inteligentes.
-  - Promover el reciclaje y el reúso del hardware obsoleto.
-
-### Educación y Conciencia
-- **Propuestas**:
-  - Educación continua sobre las prácticas sostenibles.
-  - Fomentar la conciencia ambiental en todos los niveles de la organización.
+- Alimentar los centros de datos con energía renovable, como solar, eólica o hidroeléctrica
+- Adoptar prácticas de desarrollo sostenible, como la reutilización de modelos de IA existentes
