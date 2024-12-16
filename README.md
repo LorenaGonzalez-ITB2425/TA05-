@@ -1,4 +1,4 @@
-![Logo HelpScout]([https://ejemplo.com/imagen.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drupal.org%2Fproject%2Fhelp_scout_beacon&psig=AOvVaw04RCQ4jjsa4YCS-Y3zIH1h&ust=1734422097594000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCX9_rnq4oDFQAAAAAdAAAAABAE) "HelpScout")
+![image]([https://github.com/user-attachments/assets/8b84ba3c-93a0-4304-8d20-5b5c2a516494](https://www.drupal.org/files/project-images/helpscout-logo-1200.png))
 
 # HELPSCOUT
 
