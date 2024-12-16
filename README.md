@@ -1,81 +1,69 @@
-# Manual de Cylance AI 
+# Manual de Cylance AI de Blackberry en el Contexto de ASIX
 
-## Aplicacions de la IA en Cylance AI
+## Aplicaciones de la IA en Cylance AI
 
-### Xarxes
-- **Aplicacions de la IA**:
-  - Detecció i prevenció de amenaces en les xarxes.
-  - Implementació de solucions de seguretat basades en IA.
+### Gestión de la Seguridad
+- **Aplicaciones de la IA**:
+  - Análisis de datos de seguridad para identificar vulnerabilidades.
+  - Modelos predictivos para anticipar y prevenir ataques.
 
-### Gestió de la Seguretat
-- **Aplicacions de la IA**:
-  - Anàlisi de dades de seguretat per identificar vulnerabilitats.
-  - Models predictius per anticipar i prevenir atacs.
+## Impacto al Sector
 
-### Suport Tècnic
-- **Aplicacions de la IA**:
-  - Suport tècnic automatitzat mitjançant chatbots.
-  - Diagnòstic i solució de problemes de manera proactiva.
+### Redes
+- **Impacto al sector**:
+  - Mejora de la seguridad de las redes.
+  - Aumento de la confianza de los usuarios.
 
-### Anàlisis de Dades
-- **Aplicacions de la IA**:
-  - Anàlisi de grans conjunts de dades de seguretat.
-  - Classificació i prioritització de les amenaces.
+### Gestión de la Seguridad
+- **Impacto al sector**:
+  - Reducción del tiempo y recursos para la detección y respuesta a las amenazas.
+  - Mejora en la prevención de ataques avanzados.
 
-### Desenvolupament
-- **Aplicacions de la IA**:
-  - Millora de la seguretat i qualitat del codi.
-  - Optimització dels processos de desenvolupament.
+### Soporte Técnico
+- **Impacto al sector**:
+  - Mejora en la eficiencia del soporte técnico.
+  - Reducción de los costos asociados al soporte técnico manual.
 
-## Impacte al Sector
+### Análisis de Datos
+- **Impacto al sector**:
+  - Mejora en la capacidad de analizar e interpretar datos de seguridad.
+  - Aumento de la precisión en la detección de amenazas.
 
-### Xarxes
-- **Impacte al sector**:
-  - Millora de la seguretat de les xarxes.
-  - Augment de la confiança dels usuaris.
+### Desarrollo
+- **Impacto al sector**:
+  - Mejora en la calidad y seguridad del software desarrollado.
+  - Optimización de los procesos de desarrollo.
 
-### Gestió de la Seguretat
-- **Impacte al sector**:
-  - Reducció del temps i recursos per a la detecció i resposta a les amenaces.
-  - Millora en la prevenció d'atacs avançats.
-
-### Suport Tècnic
-- **Impacte al sector**:
-  - Millora en l'eficiència del suport tècnic.
-  - Reducció dels costos associats al suport tècnic manual.
-
-### Anàlisis de Dades
-- **Impacte al sector**:
-  - Millora en la capacitat d'analitzar i interpretar dades de seguretat.
-  - Augment de la precisió en la detecció de amenaces.
-
-### Desenvolupament
-- **Impacte al sector**:
-  - Millora en la qualitat i seguretat del software desenvolupat.
-  - Optimització dels processos de desenvolupament.
-
-## Impacte Ambiental
+## Impacto Ambiental
 
 ### General
-- **Impacte ambiental**:
-  - Consum d'energia i recursos.
-  - Emisions de gasos d'efecte hivernacle.
+- **Impacto ambiental**:
+  - Consumo de energía y recursos.
+  - Emisiones de gases de efecto invernadero.
 
-### Específic per a Cylance AI
-- **Impacte ambiental**:
-  - Consum d'energia pels centres de dades i infraestructura de computació en núvol.
-  - Actualització constant dels models de IA i processament intensiu de dades.
+### Específico para Cylance AI
+- **Impacto ambiental**:
+  - Consumo de energía por los centros de datos y la infraestructura de computación en la nube.
+  - Actualización constante de los modelos de IA y procesamiento intensivo de datos.
 
-## Propostes per Minimitzar els Impactes Ambientals
+## Propuestas para Minimizar los Impactos Ambientales
 
-### Disseny de Sistemes Més Eficients
-- **Propostes**:
-  - Implementar arquitectures de IA més eficients energèticament.
-  - Utilitzar tecnologies de computació en núvol sostenibles.
+### Diseño de Sistemas Más Eficientes
+- **Propuestas**:
+  - Implementar arquitecturas de IA más eficientes energéticamente.
+  - Utilizar tecnologías de computación en la nube sostenibles.
 
-### Uso de Tecnologies Sostenibles
-- **Propostes**:
-  - Adoptar pràctiques de desenvolupament sostenible.
-  - Integrar la IoT per monitorar i reduir el consum d'energia.
+### Uso de Tecnologías Sostenibles
+- **Propuestas**:
+  - Adoptar prácticas de desarrollo sostenible.
+  - Integrar la IoT para monitorizar y reducir el consumo de energía.
 
-### Gestió de la
+### Gestión de la Infraestructura
+- **Propuestas**:
+  - Implementar sistemas de gestión de energía inteligentes.
+  - Promover el reciclaje y el reúso del hardware obsoleto.
+
+### Educación y Conciencia
+- **Propuestas**:
+  - Educación continua sobre las prácticas sostenibles.
+  - Fomentar la conciencia ambiental en todos los niveles de la organización.
