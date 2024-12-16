@@ -8,10 +8,14 @@ Cylance AI es una herramienta centrada en la ciberseguridad creada por BlackBerr
 ## Gestión de la Seguridad
 ### Aplicaciones de la IA Cylance.
 - **Prevención de amenazas**
-  - Detecta y bloquea malware conocido y desconocido antes de que pueda ejecutarse en los endpoints13
-  - Previene ataques de día cero, ransomware, malware sin archivos y otros vectores de ataque avanzados13
+  - Detecta y bloquea malware conocido y desconocido antes de que pueda ejecutarse.
   - Proporciona protección incluso sin conexión a internet o actualizaciones de firmas
-
+    
+- **Gestión simplificada**
+  - Es una herramienta intuitiva basada en la nube para administrar la seguridad
+  - Reduce la carga de trabajo de los equipos de seguridad al automatizar tareas
+  - No requiere actualizaciones frecuentes ni gestión diaria.
+    
   - [Acceso a la IA](https://www.blackberry.com/la/es/products/cylance-endpoint-security/cylance-ai)
 
 
