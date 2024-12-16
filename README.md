@@ -14,15 +14,12 @@
 
 ## Impacto Ambiental
 
-### General
-- **Impacto ambiental**:
-  - Consumo de energía y recursos.
-  - Emisiones de gases de efecto invernadero.
-
-### Específico para Cylance AI
-- **Impacto ambiental**:
-  - Consumo de energía por los centros de datos y la infraestructura de computación en la nube.
-  - Actualización constante de los modelos de IA y procesamiento intensivo de datos.
+- **Negativo**
+  - El funcionamiento de la IA, como Cylance AI, consume grandes cantidades de energía y recursos, contribuyendo a las emisiones de gases de efecto invernadero, la actualización constante de los modelos de IA y el procesamiento de datos también contribuyen al consumo energético.
+ 
+- **Positivo**
+  - Aunque la IA tiene un consumo de energia muy grande el cual hace que no sea muy sostenible, sus aplicaciones de sostenibilidad como la optimización de cadenas de suministro y gestión del consumo energético pueden reducir significativamente las emisiones totales
+  - La IA está optimizando cada vez más su propio consumo energético, asi cada vez reduce el impacto y mejora su sostenibilidad.
 
 ## Propuestas para Minimizar los Impactos Ambientales
 
