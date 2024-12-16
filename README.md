@@ -1,6 +1,7 @@
-![image]([https://github.com/user-attachments/assets/8b84ba3c-93a0-4304-8d20-5b5c2a516494](https://www.drupal.org/files/project-images/helpscout-logo-1200.png))
 
 # HELPSCOUT
+
+![ERROR](/image.png "LOGO")
 
 Help Scout es una herramienta completa diseñada para agilizar las operaciones de soporte técnico al cliente, mejorar la colaboración del equipo y ofrecer experiencias excepcionales a los clientes.
 
