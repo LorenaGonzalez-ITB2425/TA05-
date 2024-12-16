@@ -1,4 +1,4 @@
-# Manual de Cylance AI de Blackberry en el Contexto de ASIX
+# Manual de Cylance AI de Blackberry
 
 ## Aplicaciones de la IA en Cylance AI
 
