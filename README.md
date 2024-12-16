@@ -1,6 +1,7 @@
 # Manual de Cylance AI de Blackberry en el Contexto de ASIX
 
 ## Aplicaciones de la IA en Cylance AI
+![image](https://www.sourcesecurity.com/img/news/612/blackberry-cylance-920x533.jpg)
 
 ### Gestión de la Seguridad
 - **Aplicaciones de la IA**:
