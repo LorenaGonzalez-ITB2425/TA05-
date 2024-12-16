@@ -40,4 +40,5 @@ Por ejemplo Cylance tiene una implementacion de Anti Virus, la cual proteje de a
 ## Propuestas para Minimizar los Impactos Ambientales
 
 Alimentar los centros de datos con energía renovable, como solar, eólica o hidroeléctrica
-y adoptar prácticas de desarrollo sostenible, como la reutilización de modelos de IA existentes
+y adoptar prácticas de desarrollo sostenible, como la reutilización de modelos de IA existentes.
+
