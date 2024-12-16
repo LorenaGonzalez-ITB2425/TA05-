@@ -27,4 +27,4 @@ La implementación de Cylance AI reduce el tiempo y los recursos necesarios para
 ## Propuestas para Minimizar los Impactos Ambientales
 
 Alimentar los centros de datos con energía renovable, como solar, eólica o hidroeléctrica
-Adoptar prácticas de desarrollo sostenible, como la reutilización de modelos de IA existentes
+y adoptar prácticas de desarrollo sostenible, como la reutilización de modelos de IA existentes
