@@ -30,7 +30,7 @@ Cylance AI es usada principalmente en la prevención de brechas de seguridad, co
 La implementación de Cylance AI reduce el tiempo y los recursos necesarios para la detección y respuesta a las amenazas.
 
 Por ejemplo Cylance tiene una implementacion de Anti Virus, la cual proteje de ataques o de malware que se puede descargar por accidente.
-- [Mas informacion sobre el Antivirus](https://www.geyma.com/blog/antivirus-cylance-una-muy-buena-opcion-para-sentirse-seguro/)
+- [Más información sobre el Antivirus](https://www.geyma.com/blog/antivirus-cylance-una-muy-buena-opcion-para-sentirse-seguro/)
 
 
 ## Impacto Ambiental
@@ -42,7 +42,7 @@ Por ejemplo Cylance tiene una implementacion de Anti Virus, la cual proteje de a
   - Aunque la IA tiene un consumo de energia muy grande el cual hace que no sea muy sostenible, sus aplicaciones de sostenibilidad como la optimización de cadenas de suministro y gestión del consumo energético pueden reducir significativamente las emisiones totales
   - La IA está optimizando cada vez más su propio consumo energético, asi cada vez reduce el impacto y mejora su sostenibilidad.
 
-- [Mas Informacion sobre los impactos en el medioambiente](https://www.unep.org/es/noticias-y-reportajes/reportajes/la-ia-plantea-problemas-ambientales-esto-es-lo-que-el-mundo-puede)
+- [Más Información sobre los impactos en el medioambiente](https://www.unep.org/es/noticias-y-reportajes/reportajes/la-ia-plantea-problemas-ambientales-esto-es-lo-que-el-mundo-puede)
 ## Propuestas para Minimizar los Impactos Ambientales
 
 - Alimentar los centros de datos con energía renovable, como solar, eólica o hidroeléctrica.
