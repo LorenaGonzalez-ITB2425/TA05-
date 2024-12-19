@@ -17,20 +17,20 @@ El **Manual IA-ASIXC** es una guía diseñada para explorar y comprender las apl
 
 ---
 
-### Propósito del Manual
-El objetivo principal de este manual es:
+### Objetivo
+El propósito principal es proporcionar una comprensión profunda y accesible de las herramientas de IA más relevantes, sus aplicaciones y sus implicaciones en el ámbito informático. Los objetivos específicos incluyen:
 
 1. **Informar** sobre las herramientas de IA más relevantes para cada campo de estudio.
-2. **Analizar** el impacto de estas herramientas en sus respectivos sectores, evaluando tanto sus beneficios como desafíos.
+2. **Analizar** los impactos positivos y negativos de estas herramientas en sus respectivos sectores.
 3. **Concienciar** sobre el impacto ambiental asociado al uso de la IA y proponer estrategias para minimizarlo.
 
-### Uso del Manual
+### Uso del manual
 Este manual está organizado de manera que cada sección corresponde a una herramienta de IA específica y su aplicación en un campo determinado:
 
-- Cada apartado comienza con una introducción a la herramienta y sus aplicaciones principales.
-- Se analizan los impactos positivos y negativos de su implementación en el sector.
-- Se incluye una evaluación del impacto ambiental que genera su uso.
-- Finalmente, se proponen soluciones y estrategias para mitigar los efectos ambientales adversos.
+- **Introducción a cada herramienta**: Una descripción clara de su propósito y sus aplicaciones principales.
+- **Impacto en el sector**: Un análisis de cómo estas herramientas están transformando su campo.
+- **Impacto ambiental**: Una evaluación de las repercusiones ecológicas de su implementación.
+- **Propuestas para la sostenibilidad**: Soluciones concretas para reducir el impacto ambiental y promover un uso responsable.
 
 ### ¿A quién va dirigido?
 Este manual está dirigido a estudiantes, profesionales y entusiastas de la informática que desean ampliar sus conocimientos sobre la integración de la IA en sectores clave. Es particularmente útil para aquellos interesados en comprender tanto las oportunidades como las responsabilidades que conlleva el uso de tecnologías avanzadas.
