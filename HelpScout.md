@@ -3,7 +3,8 @@
 
 ![ERROR](/helpscout-logo-1200.png "LOGO")
 
-Help Scout es una herramienta completa diseñada para agilizar las operaciones de soporte técnico al cliente, mejorar la colaboración del equipo y ofrecer experiencias excepcionales a los clientes.
+>​🌬️​Help Scout es una herramienta completa diseñada para agilizar las operaciones de soporte técnico al cliente, mejorar la colaboración del equipo y ofrecer experiencias excepcionales a los clientes.​🌬️​
+>
 
 ## Les aplicaciones de la IA
 
