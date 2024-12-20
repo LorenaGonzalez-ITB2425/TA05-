@@ -37,8 +37,12 @@ El ultimo dia dimos los ultimos retoques y publicamos el sitio web.
 
 ### Publicación
 Para publicar la página web nos drigimos al setting del repositorio al apartado pages y damos a la opcion de craer un apagina web desde la branche main que contenga el repositorio. Un vez publicada la pagina ya tenemos nuestro manual.
+
+![-](sett.png)
+
 ![-](/ruta/a/la/imagen.jpg)
+
 ![-](/ruta/a/la/imagen.jpg)
-![-](/ruta/a/la/imagen.jpg)
+
 ![-](/ruta/a/la/imagen.jpg)
 
