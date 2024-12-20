@@ -11,7 +11,7 @@ El **Manual IA-ASIXC** es una guía diseñada para explorar y comprender las apl
 
 >* [​🌬️HelpScout​🌬️](HelpScout.md)
 
->* [🐝IBM🐝](https://github.com/LorenaGonzalez-ITB2425/TA05-/blob/109120749fa73ad26663103f6fac4d886086ce11/IBM.md)
+>* [🐝IBM🐝](IBM.md)
 
 >* [👾Copilot👾](Copilot.md)
 
