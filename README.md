@@ -39,6 +39,7 @@ Este manual está dirigido a estudiantes, profesionales y entusiastas de la info
 
 ---
 
+
 >[!Note]
 >## Links
 >
