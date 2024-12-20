@@ -23,11 +23,11 @@ Este dia añadimos las tareas para la pagina principal e hicimos 3 pull request
 ### Dia 4
 El segundo dia adelantamos informacion
 
-![-](/ruta/a/la/imagen.jpg)
+![-](dia4.png)
 
 ### Dia 5
 El quinto dia adelantamos informacion y como las pull request no daban error tuvimos que copiar y pegar toda la información en fillers creadas directamente en main
-![-](/ruta/a/la/imagen.jpg)
+![-](dia4.png)
 
 ### Final 
 El ultimo dia dimos los ultimos retoques y publicamos el sitio web.
