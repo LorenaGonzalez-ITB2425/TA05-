@@ -42,10 +42,10 @@ Este manual está dirigido a estudiantes, profesionales y entusiastas de la info
 
 ## Links
 
->+ https://www.juniper.net/us/en/products/mist-ai.html#:~:text=Mist%20AI%20uses%20a%20combination,for%20accurate%20root%20cause%20analysis
->+ https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot
->+ https://scottmax.com/es/consejo/5-mejores-herramientas-ai-para-la-ciberseguridad/
->+ https://blog.invgate.com/es/herramientas-de-soporte-tecnico-con-ia
->+ https://www.unite.ai/es/analistas-de-datos-de-herramientas-de-inteligencia-artificial/
->+ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
->+ https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown#m%C3%A1s-como-estoy
+>- https://www.juniper.net/us/en/products/mist-ai.html#:~:text=Mist%20AI%20uses%20a%20combination,for%20accurate%20root%20cause%20analysis
+>- https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot
+>- https://scottmax.com/es/consejo/5-mejores-herramientas-ai-para-la-ciberseguridad/
+>- https://blog.invgate.com/es/herramientas-de-soporte-tecnico-con-ia
+>- https://www.unite.ai/es/analistas-de-datos-de-herramientas-de-inteligencia-artificial/
+>- https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+>- https://experienceleague.adobe.com/es/docs/contributor/contributor-guide/writing-essentials/markdown#m%C3%A1s-como-estoy
