@@ -27,6 +27,7 @@ El segundo dia adelantamos informacion
 
 ### Dia 5
 El quinto dia adelantamos informacion y como las pull request no daban error tuvimos que copiar y pegar toda la información en fillers creadas directamente en main
+
 ![-](dia4.png)
 
 ### Final 
