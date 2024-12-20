@@ -14,10 +14,11 @@ En el primer dia asignamos las tareas que debia hacer cada mienmbro del equipo e
 El segundo dia adelantamos informacion
 ![-](dia2.png)
 
-
 ### Dia 3
 Este dia añadimos las tareas para la pagina principal e hicimos 3 pull request
 ![-](/ruta/a/la/imagen.jpg)
+![-](pull2.png)
+
 
 ### Dia 4
 El segundo dia adelantamos informacion
