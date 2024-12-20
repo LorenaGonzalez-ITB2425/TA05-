@@ -33,9 +33,10 @@ El quinto dia adelantamos informacion y como las pull request no daban error tuv
 
 ### Final 
 El ultimo dia dimos los ultimos retoques y publicamos el sitio web.
-![-](/ruta/a/la/imagen.jpg)
+![-](final.png)
 
 ### Publicación
+Para publicar la página web nos drigimos al setting del repositorio al apartado pages y damos a la opcion de craer un apagina web desde la branche main que contenga el repositorio. Un vez publicada la pagina ya tenemos nuestro manual.
 ![-](/ruta/a/la/imagen.jpg)
 ![-](/ruta/a/la/imagen.jpg)
 ![-](/ruta/a/la/imagen.jpg)
