@@ -1,6 +1,6 @@
 # IBM Watson 
 
-![ERROR](/image.png "LOGO")
+![ERROR](/ibm.png "LOGO")
 
 
 ## Definicion 
