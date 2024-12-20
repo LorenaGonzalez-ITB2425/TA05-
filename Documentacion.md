@@ -9,7 +9,8 @@ En el primer dia asignamos las tareas que debia hacer cada mienmbro del equipo e
 ![-](dia1.png)
 
 ### Dia 2
-![-](/ruta/a/la/imagen.jpg)
+El segundo dia adelantamos informacion y hizimos 2 pull request
+![-](dia2.png)
 
 
 ### Dia 3
