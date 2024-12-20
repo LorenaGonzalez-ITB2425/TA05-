@@ -16,7 +16,7 @@ El segundo dia adelantamos informacion
 
 ### Dia 3
 Este dia añadimos las tareas para la pagina principal e hicimos 3 pull request
-![-](/ruta/a/la/imagen.jpg)
+![-](dia3.png)
 ![-](pull2.png)
 
 
