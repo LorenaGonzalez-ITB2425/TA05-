@@ -4,8 +4,8 @@
 >
 ## Proceso
 
-
 ### Dia 1
+En el primer dia asignamos las tareas que debia hacer cada mienmbro del equipo e hicimos el primer pull request.
 ![-](/ruta/a/la/imagen.jpg)
 
 ### Dia 2
