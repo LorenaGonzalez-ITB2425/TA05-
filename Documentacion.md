@@ -42,7 +42,3 @@ Para publicar la página web nos drigimos al setting del repositorio al apartado
 
 ![-](page.png)
 
-![-](/ruta/a/la/imagen.jpg)
-
-![-](/ruta/a/la/imagen.jpg)
-
