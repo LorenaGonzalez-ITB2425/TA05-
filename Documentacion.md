@@ -7,6 +7,8 @@
 ### Dia 1
 En el primer dia asignamos las tareas que debia hacer cada mienmbro del equipo e hicimos el primer pull request.
 ![-](dia1.png)
+![-](pull1.png)
+
 
 ### Dia 2
 El segundo dia adelantamos informacion y hizimos 2 pull request
