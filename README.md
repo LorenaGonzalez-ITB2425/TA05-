@@ -42,7 +42,6 @@ Este manual está dirigido a estudiantes, profesionales y entusiastas de la info
 
 >[!Note]
 > Links
->
 >+ https://www.juniper.net/us/en/products/mist-ai.html#:~:text=Mist%20AI%20uses%20a%20combination,for%20accurate%20root%20cause%20analysis
 >+ https://docs.github.com/en/copilot/about-github-copilot/what-is-github-copilot
 >+ https://scottmax.com/es/consejo/5-mejores-herramientas-ai-para-la-ciberseguridad/
