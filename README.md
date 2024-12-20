@@ -5,7 +5,7 @@ El **Manual IA-ASIXC** es una guía diseñada para explorar y comprender las apl
 ---
 ### Índice
 
->* [🌀Mist Ai🌀](Mist AI.md)
+>* [🌀Mist Ai🌀](MistAI.md)
 
 >* [🧠Cylance🧠](Cylance.md)
 
