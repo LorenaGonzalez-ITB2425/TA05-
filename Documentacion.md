@@ -6,8 +6,7 @@
 
 ### Dia 1
 En el primer dia asignamos las tareas que debia hacer cada mienmbro del equipo e hicimos el primer pull request.
-
-![-](/TA05/dia1.png)
+![-](dia1.png)
 
 ### Dia 2
 ![-](/ruta/a/la/imagen.jpg)
